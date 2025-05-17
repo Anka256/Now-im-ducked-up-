@@ -91,6 +91,7 @@
     {"id":{"name":"spr_cutscene4_3","path":"sprites/spr_cutscene4_3/spr_cutscene4_3.yy",},},
     {"id":{"name":"spr_cutscene4_4","path":"sprites/spr_cutscene4_4/spr_cutscene4_4.yy",},},
     {"id":{"name":"spr_map","path":"sprites/spr_map/spr_map.yy",},},
+    {"id":{"name":"spr_menu","path":"sprites/spr_menu/spr_menu.yy",},},
     {"id":{"name":"spr_start","path":"sprites/spr_start/spr_start.yy",},},
     {"id":{"name":"spr_task","path":"sprites/spr_task/spr_task.yy",},},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},},
