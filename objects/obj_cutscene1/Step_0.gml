@@ -17,7 +17,7 @@ if mouse_check_button_pressed(mb_left){
 	}
 	
 	if mouse_count == 5 {
-		layer_sequence_create("Assets_1", 12+240+12, 12+192+24, seq_cutscene1_5);
+		layer_sequence_create("Assets_1", 12+240+12+240+12, 12+192+24, seq_cutscene1_5);
 	}
 	
 	if mouse_count == 6 {
