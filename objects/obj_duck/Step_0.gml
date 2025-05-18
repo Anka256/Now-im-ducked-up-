@@ -55,6 +55,14 @@ if (place_meeting(x, y + vsp, obj_wall))
 	}
 	vsp = 0;
 }
+if (place_meeting(x, y + vsp, obj_ladder)) && (!m_down) && (!m_up)
+{
+	while(!place_meeting(x, y + sign(vsp), obj_ladder))
+	{
+		y += sign(vsp);
+	}
+	vsp = 0;
+}
 y += vsp;
 
 	// jump
@@ -65,6 +73,6 @@ if (place_meeting(x, y + 1, obj_wall)) && (space) {
 #endregion
 
 
-if place_meeting(x, y, obj_door) {
+if place_meeting(x, y, obj_enddoor) {
 	room_goto_next();
 }
