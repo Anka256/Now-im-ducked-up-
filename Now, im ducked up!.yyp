@@ -48,7 +48,6 @@
     {"id":{"name":"Cutscene1","path":"rooms/Cutscene1/Cutscene1.yy",},},
     {"id":{"name":"Cutscene2","path":"rooms/Cutscene2/Cutscene2.yy",},},
     {"id":{"name":"Cutscene3","path":"rooms/Cutscene3/Cutscene3.yy",},},
-    {"id":{"name":"Cutscene4","path":"rooms/Cutscene4/Cutscene4.yy",},},
     {"id":{"name":"End","path":"rooms/End/End.yy",},},
     {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"Level2","path":"rooms/Level2/Level2.yy",},},
@@ -75,6 +74,7 @@
     {"id":{"name":"seq_cutscene4_2","path":"sequences/seq_cutscene4_2/seq_cutscene4_2.yy",},},
     {"id":{"name":"seq_cutscene4_3","path":"sequences/seq_cutscene4_3/seq_cutscene4_3.yy",},},
     {"id":{"name":"seq_cutscene4_4","path":"sequences/seq_cutscene4_4/seq_cutscene4_4.yy",},},
+    {"id":{"name":"snd_music","path":"sounds/snd_music/snd_music.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_cutscene1_1","path":"sprites/spr_cutscene1_1/spr_cutscene1_1.yy",},},
     {"id":{"name":"spr_cutscene1_2","path":"sprites/spr_cutscene1_2/spr_cutscene1_2.yy",},},
@@ -120,7 +120,6 @@
     {"roomId":{"name":"Level5","path":"rooms/Level5/Level5.yy",},},
     {"roomId":{"name":"Cutscene3","path":"rooms/Cutscene3/Cutscene3.yy",},},
     {"roomId":{"name":"End","path":"rooms/End/End.yy",},},
-    {"roomId":{"name":"Cutscene4","path":"rooms/Cutscene4/Cutscene4.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
