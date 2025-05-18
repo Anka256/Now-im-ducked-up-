@@ -7,3 +7,8 @@ ladder_speed = 1.78
 onLadder = false;
 
 window_set_fullscreen(true);
+
+if instance_exists(obj_key) {
+	need_a_key = true;
+}
+else {need_a_key = false}

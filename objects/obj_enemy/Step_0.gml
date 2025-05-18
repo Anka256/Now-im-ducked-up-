@@ -3,6 +3,7 @@
 
 if collision_line(x - collision_part_wall, y, x + sprite_width + collision_part_wall, y, obj_wall, false, true) {
 	hsp *= -1;
+	alarm_hsp *= -1;
 }
 
 

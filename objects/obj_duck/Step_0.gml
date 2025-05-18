@@ -73,6 +73,6 @@ if (place_meeting(x, y + 1, obj_wall)) && (space) {
 #endregion
 
 
-if place_meeting(x, y, obj_enddoor) {
+if place_meeting(x, y, obj_enddoor) && !need_a_key {
 	room_goto_next();
 }
